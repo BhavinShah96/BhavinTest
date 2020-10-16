@@ -1,1 +1,1 @@
-"This is first lecture today"
+"This is our first lecture today"
