@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\bin\Debug\EvenOddApp.exe.config
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\bin\Debug\EvenOddApp.exe
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\bin\Debug\EvenOddApp.pdb
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.exe
+C:\swabhav\DotNet\HomeWork\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.pdb
