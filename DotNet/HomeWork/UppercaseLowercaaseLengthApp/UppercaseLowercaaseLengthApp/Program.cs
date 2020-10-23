@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace UppercaseLowercaaseLengthApp
         {
             string Message = "i am learning c#";
             string message = "I AM LEARNING C IN SWABHAV";
-
+            int a = 10;
             Uppercase(Message);
             LowerCase(message);
             Length(message);
@@ -28,6 +29,7 @@ namespace UppercaseLowercaaseLengthApp
         public static void Length(string message)
         {
             Console.WriteLine("String Length is : " + message.Length);
+            Console.WriteLine(message.GetHashCode());
         }
     }
 } 
