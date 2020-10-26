@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\bin\Debug\CommandLineArgumentTestApp.exe.config
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\bin\Debug\CommandLineArgumentTestApp.exe
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\bin\Debug\CommandLineArgumentTestApp.pdb
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\obj\Debug\CommandLineArgumentTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\obj\Debug\CommandLineArgumentTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\obj\Debug\CommandLineArgumentTestApp.exe
+C:\swabhav\DotNet\ClassWork\CommandLineArgumentTestApp\CommandLineArgumentTestApp\obj\Debug\CommandLineArgumentTestApp.pdb
