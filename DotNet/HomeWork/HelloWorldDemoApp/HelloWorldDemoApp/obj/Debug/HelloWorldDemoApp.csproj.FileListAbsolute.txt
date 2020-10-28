@@ -1,0 +1,6 @@
+C:\swabhav\DotNet\HelloWorldDemoApp\HelloWorldDemoApp\bin\Debug\HelloWorldDemoApp.exe.config
+C:\swabhav\DotNet\HelloWorldDemoApp\HelloWorldDemoApp\bin\Debug\HelloWorldDemoApp.exe
+C:\swabhav\DotNet\HelloWorldDemoApp\HelloWorldDemoApp\bin\Debug\HelloWorldDemoApp.pdb
+C:\swabhav\DotNet\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.exe
+C:\swabhav\DotNet\HelloWorldDemoApp\HelloWorldDemoApp\obj\Debug\HelloWorldDemoApp.pdb

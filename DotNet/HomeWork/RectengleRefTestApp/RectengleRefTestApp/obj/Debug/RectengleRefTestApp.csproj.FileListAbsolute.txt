@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\bin\Debug\RectengleRefTestApp.exe.config
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\bin\Debug\RectengleRefTestApp.exe
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\bin\Debug\RectengleRefTestApp.pdb
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\obj\Debug\RectengleRefTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\obj\Debug\RectengleRefTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\obj\Debug\RectengleRefTestApp.exe
+C:\swabhav\DotNet\HomeWork\RectengleRefTestApp\RectengleRefTestApp\obj\Debug\RectengleRefTestApp.pdb
