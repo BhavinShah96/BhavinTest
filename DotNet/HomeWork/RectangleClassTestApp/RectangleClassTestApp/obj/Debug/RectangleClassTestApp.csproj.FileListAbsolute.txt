@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\bin\Debug\RectangleClassTestApp.exe.config
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\bin\Debug\RectangleClassTestApp.exe
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\bin\Debug\RectangleClassTestApp.pdb
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\obj\Debug\RectangleClassTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\obj\Debug\RectangleClassTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\obj\Debug\RectangleClassTestApp.exe
+C:\swabhav\DotNet\HomeWork\RectangleClassTestApp\RectangleClassTestApp\obj\Debug\RectangleClassTestApp.pdb
