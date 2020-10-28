@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\bin\Debug\ConsoleColorAndDateTimeApp.exe.config
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\bin\Debug\ConsoleColorAndDateTimeApp.exe
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\bin\Debug\ConsoleColorAndDateTimeApp.pdb
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\obj\Debug\ConsoleColorAndDateTimeApp.csprojAssemblyReference.cache
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\obj\Debug\ConsoleColorAndDateTimeApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\obj\Debug\ConsoleColorAndDateTimeApp.exe
-C:\swabhav\DotNet\HomeWork\ConsoleColorAndDateTimeApp\ConsoleColorAndDateTimeApp\obj\Debug\ConsoleColorAndDateTimeApp.pdb

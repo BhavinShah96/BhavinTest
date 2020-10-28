@@ -1,6 +1,0 @@
-C:\swabhav\DotNet\WhileLoopApp\WhileLoopApp\bin\Debug\WhileLoopApp.exe.config
-C:\swabhav\DotNet\WhileLoopApp\WhileLoopApp\bin\Debug\WhileLoopApp.exe
-C:\swabhav\DotNet\WhileLoopApp\WhileLoopApp\bin\Debug\WhileLoopApp.pdb
-C:\swabhav\DotNet\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.exe
-C:\swabhav\DotNet\WhileLoopApp\WhileLoopApp\obj\Debug\WhileLoopApp.pdb

@@ -1,6 +1,0 @@
-C:\swabhav\DotNet\BreakContinueApp\BreakContinueApp\bin\Debug\BreakContinueApp.exe.config
-C:\swabhav\DotNet\BreakContinueApp\BreakContinueApp\bin\Debug\BreakContinueApp.exe
-C:\swabhav\DotNet\BreakContinueApp\BreakContinueApp\bin\Debug\BreakContinueApp.pdb
-C:\swabhav\DotNet\BreakContinueApp\BreakContinueApp\obj\Debug\BreakContinueApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\BreakContinueApp\BreakContinueApp\obj\Debug\BreakContinueApp.exe
-C:\swabhav\DotNet\BreakContinueApp\BreakContinueApp\obj\Debug\BreakContinueApp.pdb

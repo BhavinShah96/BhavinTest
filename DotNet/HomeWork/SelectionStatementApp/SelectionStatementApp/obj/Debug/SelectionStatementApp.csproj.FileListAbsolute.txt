@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\bin\Debug\SelectionStatementApp.exe.config
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\bin\Debug\SelectionStatementApp.exe
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\bin\Debug\SelectionStatementApp.pdb
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\obj\Debug\SelectionStatementApp.csprojAssemblyReference.cache
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\obj\Debug\SelectionStatementApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\obj\Debug\SelectionStatementApp.exe
-C:\swabhav\DotNet\SelectionStatementApp\SelectionStatementApp\obj\Debug\SelectionStatementApp.pdb
