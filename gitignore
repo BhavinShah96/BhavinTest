@@ -15,9 +15,6 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# ignore pdf file
-*.pdf
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

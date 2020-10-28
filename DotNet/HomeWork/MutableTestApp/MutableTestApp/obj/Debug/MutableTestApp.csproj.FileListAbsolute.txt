@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\bin\Debug\MutableTestApp.exe.config
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\bin\Debug\MutableTestApp.exe
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\bin\Debug\MutableTestApp.pdb
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\obj\Debug\MutableTestApp.csprojAssemblyReference.cache
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\obj\Debug\MutableTestApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\obj\Debug\MutableTestApp.exe
-C:\swabhav\DotNet\ClassWork\MutableTestApp\MutableTestApp\obj\Debug\MutableTestApp.pdb

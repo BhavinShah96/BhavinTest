@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\bin\Debug\EvenNumberApp.exe.config
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\bin\Debug\EvenNumberApp.exe
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\bin\Debug\EvenNumberApp.pdb
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.csprojAssemblyReference.cache
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.exe
-C:\swabhav\DotNet\EvenNumberApp\EvenNumberApp\obj\Debug\EvenNumberApp.pdb

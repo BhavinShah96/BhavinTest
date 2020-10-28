@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\bin\Debug\AreaPerimeterOfCircleApp.exe.config
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\bin\Debug\AreaPerimeterOfCircleApp.exe
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\bin\Debug\AreaPerimeterOfCircleApp.pdb
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\obj\Debug\AreaPerimeterOfCircleApp.csprojAssemblyReference.cache
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\obj\Debug\AreaPerimeterOfCircleApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\obj\Debug\AreaPerimeterOfCircleApp.exe
-C:\swabhav\DotNet\AreaPerimeterOfCircleApp\AreaPerimeterOfCircleApp\obj\Debug\AreaPerimeterOfCircleApp.pdb

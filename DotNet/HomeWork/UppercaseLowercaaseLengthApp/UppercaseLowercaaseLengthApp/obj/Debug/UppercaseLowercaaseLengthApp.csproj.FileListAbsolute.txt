@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\bin\Debug\UppercaseLowercaaseLengthApp.exe.config
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\bin\Debug\UppercaseLowercaaseLengthApp.exe
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\bin\Debug\UppercaseLowercaaseLengthApp.pdb
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\obj\Debug\UppercaseLowercaaseLengthApp.csprojAssemblyReference.cache
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\obj\Debug\UppercaseLowercaaseLengthApp.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\obj\Debug\UppercaseLowercaaseLengthApp.exe
-C:\swabhav\DotNet\HomeWork\UppercaseLowercaaseLengthApp\UppercaseLowercaaseLengthApp\obj\Debug\UppercaseLowercaaseLengthApp.pdb

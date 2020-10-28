@@ -1,7 +1,0 @@
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\bin\Debug\SquareOfNumber.exe.config
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\bin\Debug\SquareOfNumber.exe
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\bin\Debug\SquareOfNumber.pdb
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\obj\Debug\SquareOfNumber.csprojAssemblyReference.cache
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\obj\Debug\SquareOfNumber.csproj.CoreCompileInputs.cache
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\obj\Debug\SquareOfNumber.exe
-C:\swabhav\DotNet\SquareOfNumber\SquareOfNumber\obj\Debug\SquareOfNumber.pdb
