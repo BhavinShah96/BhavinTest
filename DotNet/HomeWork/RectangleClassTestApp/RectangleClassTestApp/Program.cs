@@ -15,6 +15,7 @@ namespace RectangleClassTestApp
             rectObj.setHeight(20);
             rectObj.setWidth(101);
             rectObj.CalculateArea();
+            rectObj.setColor("gREEn");
 
             printInfo(rectObj);
 
@@ -26,7 +27,7 @@ namespace RectangleClassTestApp
         {
             Console.WriteLine("Width of rectengle is" + r.getWidth());
             Console.WriteLine("Height of rectengle is" + r.getHeight());
-
+            Console.WriteLine("Color is :" + r.getColor());
             Console.WriteLine(r.GetHashCode());
         }
     }

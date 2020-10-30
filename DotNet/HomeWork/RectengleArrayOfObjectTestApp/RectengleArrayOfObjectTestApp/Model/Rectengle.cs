@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RectangleClassTestApp.Model
+namespace RectengleArrayOfObjectTestApp.Model
 {
-    public class Rectengle
+    class Rectengle
     {
         readonly int START_RANGE = 1;
         readonly int END_RANGE = 100;
-        
+
 
         private int height;
         private int width;
@@ -72,10 +71,16 @@ namespace RectangleClassTestApp.Model
                 return "Black";
         }
 
-        public void CalculateArea()
+        public int CalculateArea()
         {
+            return ((width * height));
+            
+        }
 
-            Console.WriteLine(" Area of Rectengle is :" + (width * height));
+        public int Perimeter()
+        {
+            return(2 * (height + width));
+            
         }
     }
 }
