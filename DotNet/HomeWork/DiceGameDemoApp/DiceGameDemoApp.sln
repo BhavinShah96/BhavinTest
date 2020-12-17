@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGameDemoApp", "DiceGameDemoApp\DiceGameDemoApp.csproj", "{6B86AAB6-471F-4D7D-84D6-D2D3C7354C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B86AAB6-471F-4D7D-84D6-D2D3C7354C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B86AAB6-471F-4D7D-84D6-D2D3C7354C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B86AAB6-471F-4D7D-84D6-D2D3C7354C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B86AAB6-471F-4D7D-84D6-D2D3C7354C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96AACC15-CCC2-45D3-90DD-AB487CE9FCB4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe.config
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.exe
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\bin\Debug\FileReadWriteApp.pdb
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.exe
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.pdb
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\bin\Debug\LumenWorks.Framework.IO.dll
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\bin\Debug\LumenWorks.Framework.IO.xml
+C:\swabhav\DotNet\HomeWork\FileReadWriteApp\FileReadWriteApp\obj\Debug\FileReadWriteApp.csproj.CopyComplete

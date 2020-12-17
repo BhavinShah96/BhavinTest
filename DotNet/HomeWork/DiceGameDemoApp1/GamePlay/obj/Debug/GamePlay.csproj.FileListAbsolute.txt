@@ -1,0 +1,9 @@
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\bin\Debug\GamePlay.dll
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\bin\Debug\GamePlay.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\obj\Debug\GamePlay.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\obj\Debug\GamePlay.dll
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\obj\Debug\GamePlay.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\bin\Debug\DiceGame.dll
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\bin\Debug\DiceGame.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\obj\Debug\GamePlay.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\GamePlay\obj\Debug\GamePlay.csproj.CopyComplete

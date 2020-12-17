@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\bin\Debug\MoveAllZeroesAtEndOfTheArray.exe.config
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\bin\Debug\MoveAllZeroesAtEndOfTheArray.exe
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\bin\Debug\MoveAllZeroesAtEndOfTheArray.pdb
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\obj\Debug\MoveAllZeroesAtEndOfTheArray.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\obj\Debug\MoveAllZeroesAtEndOfTheArray.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\obj\Debug\MoveAllZeroesAtEndOfTheArray.exe
+C:\swabhav\DotNet\HomeWork\MoveAllZeroesAtEndOfTheArray\MoveAllZeroesAtEndOfTheArray\obj\Debug\MoveAllZeroesAtEndOfTheArray.pdb

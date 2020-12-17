@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\bin\Debug\StudentProfessorDemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\bin\Debug\StudentProfessorDemoApp.exe
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\bin\Debug\StudentProfessorDemoApp.pdb
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\obj\Debug\StudentProfessorDemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\obj\Debug\StudentProfessorDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\obj\Debug\StudentProfessorDemoApp.exe
+C:\swabhav\DotNet\HomeWork\StudentProfessorDemoApp\StudentProfessorDemoApp\obj\Debug\StudentProfessorDemoApp.pdb

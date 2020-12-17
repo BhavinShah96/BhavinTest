@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\bin\Debug\InterfaceDemo1App.exe.config
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\bin\Debug\InterfaceDemo1App.exe
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\bin\Debug\InterfaceDemo1App.pdb
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\obj\Debug\InterfaceDemo1App.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\obj\Debug\InterfaceDemo1App.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\obj\Debug\InterfaceDemo1App.exe
+C:\swabhav\DotNet\HomeWork\InterfaceDemo1App\InterfaceDemo1App\obj\Debug\InterfaceDemo1App.pdb

@@ -1,0 +1,12 @@
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\obj\Debug\MainDiceGameMethod.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\obj\Debug\MainDiceGameMethod.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\MainDiceGameMethod.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\MainDiceGameMethod.exe
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\MainDiceGameMethod.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\DiceGame.dll
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\GamePlay.dll
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\DiceGame.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\bin\Debug\GamePlay.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\obj\Debug\MainDiceGameMethod.csproj.CopyComplete
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\obj\Debug\MainDiceGameMethod.exe
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameDemoApp\MainDiceGameMethod\obj\Debug\MainDiceGameMethod.pdb

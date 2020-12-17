@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\bin\Debug\SerializatioTestApp.exe.config
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\bin\Debug\SerializatioTestApp.exe
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\bin\Debug\SerializatioTestApp.pdb
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\obj\Debug\SerializatioTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\obj\Debug\SerializatioTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\obj\Debug\SerializatioTestApp.exe
+C:\swabhav\DotNet\HomeWork\SerializatioTestApp\SerializatioTestApp\obj\Debug\SerializatioTestApp.pdb

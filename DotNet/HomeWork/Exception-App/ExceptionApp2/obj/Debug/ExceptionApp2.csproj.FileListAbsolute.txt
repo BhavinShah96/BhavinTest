@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\bin\Debug\ExceptionApp2.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\bin\Debug\ExceptionApp2.exe
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\bin\Debug\ExceptionApp2.pdb
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\obj\Debug\ExceptionApp2.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\obj\Debug\ExceptionApp2.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\obj\Debug\ExceptionApp2.exe
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp2\obj\Debug\ExceptionApp2.pdb

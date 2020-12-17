@@ -1,0 +1,14 @@
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\bin\Debug\PersonTestApp.exe.config
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\bin\Debug\PersonTestApp.exe
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\bin\Debug\PersonTestApp.pdb
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.exe
+C:\swabhav\DotNet\ClassWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.pdb
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\bin\Debug\PersonTestApp.exe.config
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\bin\Debug\PersonTestApp.exe
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\bin\Debug\PersonTestApp.pdb
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.exe
+C:\swabhav\DotNet\HomeWork\PersonTestApp\PersonTestApp\obj\Debug\PersonTestApp.pdb

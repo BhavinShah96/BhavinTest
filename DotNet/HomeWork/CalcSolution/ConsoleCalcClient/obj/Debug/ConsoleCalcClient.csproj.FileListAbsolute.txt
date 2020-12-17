@@ -1,0 +1,18 @@
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\bin\Debug\ConsoleCalcClient.exe
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\bin\Debug\ConsoleCalcClient.pdb
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\bin\Debug\CalcLib.dll
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\bin\Debug\CalcLib.pdb
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.csprojAssemblyReference.cache
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.csproj.CoreCompileInputs.cache
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.csproj.CopyComplete
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.exe
+C:\Swabhav\.net\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\bin\Debug\ConsoleCalcClient.exe
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\bin\Debug\ConsoleCalcClient.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\bin\Debug\CalcLib.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\bin\Debug\CalcLib.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.csproj.CopyComplete
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.exe
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\ConsoleCalcClient\obj\Debug\ConsoleCalcClient.pdb

@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\swabhav\DotNet\HomeWork\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

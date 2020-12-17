@@ -1,0 +1,32 @@
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.Tests.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.Tests.pdb
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.pdb
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.csprojAssemblyReference.cache
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.csproj.CoreCompileInputs.cache
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.csproj.CopyComplete
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.dll
+C:\Swabhav\.net\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.Tests.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.Tests.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\CalcLib.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.csproj.CopyComplete
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib.Tests\obj\Debug\CalcLib.Tests.pdb

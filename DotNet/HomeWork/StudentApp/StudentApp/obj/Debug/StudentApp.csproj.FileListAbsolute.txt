@@ -1,0 +1,14 @@
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\swabhav\DotNet\HomeWork\StudentApp\StudentApp\obj\Debug\StudentApp.pdb

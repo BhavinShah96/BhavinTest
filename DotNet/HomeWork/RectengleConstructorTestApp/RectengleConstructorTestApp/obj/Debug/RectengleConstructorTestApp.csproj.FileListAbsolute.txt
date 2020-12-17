@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\bin\Debug\RectengleConstructorTestApp.exe.config
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\bin\Debug\RectengleConstructorTestApp.exe
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\bin\Debug\RectengleConstructorTestApp.pdb
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\obj\Debug\RectengleConstructorTestApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\obj\Debug\RectengleConstructorTestApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\obj\Debug\RectengleConstructorTestApp.exe
+C:\swabhav\DotNet\ClassWork\RectengleConstructorTestApp\RectengleConstructorTestApp\obj\Debug\RectengleConstructorTestApp.pdb

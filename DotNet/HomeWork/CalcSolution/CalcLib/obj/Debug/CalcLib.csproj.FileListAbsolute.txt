@@ -1,0 +1,11 @@
+C:\Swabhav\.net\CalcSolution\CalcLib\bin\Debug\CalcLib.dll
+C:\Swabhav\.net\CalcSolution\CalcLib\bin\Debug\CalcLib.pdb
+C:\Swabhav\.net\CalcSolution\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+C:\Swabhav\.net\CalcSolution\CalcLib\obj\Debug\CalcLib.dll
+C:\Swabhav\.net\CalcSolution\CalcLib\obj\Debug\CalcLib.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib\bin\Debug\CalcLib.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib\bin\Debug\CalcLib.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib\obj\Debug\CalcLib.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib\obj\Debug\CalcLib.dll
+C:\Users\NIKUNJ SHAH\source\repos\CalcSolution\CalcLib\obj\Debug\CalcLib.pdb

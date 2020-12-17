@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\bin\Debug\DiceGameDemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\bin\Debug\DiceGameDemoApp.exe
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\bin\Debug\DiceGameDemoApp.pdb
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\obj\Debug\DiceGameDemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\obj\Debug\DiceGameDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\obj\Debug\DiceGameDemoApp.exe
+C:\swabhav\DotNet\HomeWork\DiceGameDemoApp\DiceGameDemoApp\obj\Debug\DiceGameDemoApp.pdb

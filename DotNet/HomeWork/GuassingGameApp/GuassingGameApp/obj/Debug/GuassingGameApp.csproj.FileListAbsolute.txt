@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\bin\Debug\GuassingGameApp.exe.config
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\bin\Debug\GuassingGameApp.exe
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\bin\Debug\GuassingGameApp.pdb
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\obj\Debug\GuassingGameApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\obj\Debug\GuassingGameApp.exe
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\obj\Debug\GuassingGameApp.pdb
+C:\swabhav\DotNet\HomeWork\GuassingGameApp\GuassingGameApp\obj\Debug\GuassingGameApp.csprojAssemblyReference.cache

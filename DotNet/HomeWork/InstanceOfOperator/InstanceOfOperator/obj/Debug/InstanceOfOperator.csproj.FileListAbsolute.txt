@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\bin\Debug\InstanceOfOperator.exe.config
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\bin\Debug\InstanceOfOperator.exe
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\bin\Debug\InstanceOfOperator.pdb
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\obj\Debug\InstanceOfOperator.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\obj\Debug\InstanceOfOperator.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\obj\Debug\InstanceOfOperator.exe
+C:\swabhav\DotNet\HomeWork\InstanceOfOperator\InstanceOfOperator\obj\Debug\InstanceOfOperator.pdb

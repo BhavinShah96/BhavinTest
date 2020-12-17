@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+C:\swabhav\DotNet\HomeWork\PersonApp\PersonApp\obj\Debug\PersonApp.pdb

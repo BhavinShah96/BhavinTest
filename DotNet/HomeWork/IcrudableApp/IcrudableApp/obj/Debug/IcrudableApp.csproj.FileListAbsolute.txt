@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\bin\Debug\IcrudableApp.exe.config
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\bin\Debug\IcrudableApp.exe
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\bin\Debug\IcrudableApp.pdb
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\obj\Debug\IcrudableApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\obj\Debug\IcrudableApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\obj\Debug\IcrudableApp.exe
+C:\swabhav\DotNet\HomeWork\IcrudableApp\IcrudableApp\obj\Debug\IcrudableApp.pdb

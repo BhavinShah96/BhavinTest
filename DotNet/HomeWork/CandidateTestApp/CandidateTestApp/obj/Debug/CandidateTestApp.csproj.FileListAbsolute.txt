@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\bin\Debug\CandidateTestApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\bin\Debug\CandidateTestApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\bin\Debug\CandidateTestApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\obj\Debug\CandidateTestApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\obj\Debug\CandidateTestApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\obj\Debug\CandidateTestApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\CandidateTestApp\CandidateTestApp\obj\Debug\CandidateTestApp.pdb

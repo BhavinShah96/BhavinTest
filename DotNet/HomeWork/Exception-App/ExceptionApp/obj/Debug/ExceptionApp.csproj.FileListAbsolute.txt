@@ -1,0 +1,6 @@
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp\bin\Debug\ExceptionApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp\bin\Debug\ExceptionApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp\bin\Debug\ExceptionApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp\obj\Debug\ExceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp\obj\Debug\ExceptionApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp\obj\Debug\ExceptionApp.pdb

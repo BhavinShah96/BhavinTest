@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\bin\Debug\ContectApp.exe.config
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\bin\Debug\ContectApp.exe
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\bin\Debug\ContectApp.pdb
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\obj\Debug\ContectApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\obj\Debug\ContectApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\obj\Debug\ContectApp.exe
+C:\swabhav\DotNet\HomeWork\ContectApp\ContectApp\obj\Debug\ContectApp.pdb

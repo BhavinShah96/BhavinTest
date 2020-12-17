@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.pdb
