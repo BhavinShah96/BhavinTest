@@ -40,14 +40,22 @@ namespace AccountApp.Model
         {
             double UpdateBalance = balance + Amount;
             this._balance = UpdateBalance;
-            Console.WriteLine("Updated Balance is : " + this._balance); 
+            Console.WriteLine("After Deposite Updated Balance is : " + this._balance); 
         }
         public  void withdraw(double balance, double Amount)
         {
           
                 double UpdateBalance = balance - Amount;
                 this._balance = UpdateBalance;
-            Console.WriteLine("Updated Balance is : " + this._balance);
+            Console.WriteLine("After Withdraw Updated Balance is : " + this._balance);
+        }
+    }
+    
+    class MyException : ApplicationException
+    {
+        public void MyNewException()
+        {
+            Console.WriteLine("Exception : You Can not withdraw , Your Account Must have more then Rs.2000");
         }
     }
 }
