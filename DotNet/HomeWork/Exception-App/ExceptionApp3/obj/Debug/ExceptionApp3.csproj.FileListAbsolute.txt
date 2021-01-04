@@ -4,3 +4,10 @@ C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp3\bin\Debug\Exceptio
 C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.csproj.CoreCompileInputs.cache
 C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.exe
 C:\Users\NIKUNJ SHAH\source\repos\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.pdb
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\bin\Debug\ExceptionApp3.exe.config
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\bin\Debug\ExceptionApp3.exe
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\bin\Debug\ExceptionApp3.pdb
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.exe
+C:\swabhav\DotNet\HomeWork\Exception-App\ExceptionApp3\obj\Debug\ExceptionApp3.pdb

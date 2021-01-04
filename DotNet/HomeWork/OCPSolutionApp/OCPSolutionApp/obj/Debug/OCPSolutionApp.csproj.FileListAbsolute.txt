@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\bin\Debug\OCPSolutionApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\bin\Debug\OCPSolutionApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\bin\Debug\OCPSolutionApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\obj\Debug\OCPSolutionApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\obj\Debug\OCPSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\obj\Debug\OCPSolutionApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\OCPSolutionApp\OCPSolutionApp\obj\Debug\OCPSolutionApp.pdb

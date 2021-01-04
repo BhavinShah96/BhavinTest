@@ -1,0 +1,6 @@
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\MyQueue\bin\Debug\MyQueue.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\MyQueue\bin\Debug\MyQueue.exe
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\MyQueue\bin\Debug\MyQueue.pdb
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\MyQueue\obj\Debug\MyQueue.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\MyQueue\obj\Debug\MyQueue.exe
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\MyQueue\obj\Debug\MyQueue.pdb

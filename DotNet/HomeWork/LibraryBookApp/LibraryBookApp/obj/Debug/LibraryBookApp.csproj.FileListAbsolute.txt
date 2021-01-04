@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\obj\Debug\LibraryBookApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\obj\Debug\LibraryBookApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\bin\Debug\LibraryBookApp.exe.config
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\bin\Debug\LibraryBookApp.exe
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\bin\Debug\LibraryBookApp.pdb
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\obj\Debug\LibraryBookApp.exe
+C:\swabhav\DotNet\HomeWork\LibraryBookApp\LibraryBookApp\obj\Debug\LibraryBookApp.pdb

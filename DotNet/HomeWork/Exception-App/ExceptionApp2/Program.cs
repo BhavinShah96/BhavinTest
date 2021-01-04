@@ -10,7 +10,6 @@ namespace ExceptionApp2
             try 
             {
                 m1();
-                
             }
             catch(Exception e)
             {

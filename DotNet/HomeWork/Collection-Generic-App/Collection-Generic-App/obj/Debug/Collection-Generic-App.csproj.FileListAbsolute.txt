@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\bin\Debug\Collection-Generic-App.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\bin\Debug\Collection-Generic-App.exe
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\bin\Debug\Collection-Generic-App.pdb
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\obj\Debug\Collection-Generic-App.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\obj\Debug\Collection-Generic-App.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\obj\Debug\Collection-Generic-App.exe
+C:\Users\NIKUNJ SHAH\source\repos\Collection-Generic-App\Collection-Generic-App\obj\Debug\Collection-Generic-App.pdb

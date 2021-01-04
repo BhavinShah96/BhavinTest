@@ -10,54 +10,62 @@ namespace DiceGameDemoApp.Model
 {
     public class DiceGame
     {
-        private int _score;
+        private int _score = 0;
         private int TotalScoreNeed = 20;
-        public int Score { get; set; }
+        private int TotalScore = 0;
+        
+         
         public int turn = 0;
         public int n = 0;
 
         public void PlayGame()
         {
+            TotalScore = _score;
             string key;
             Console.WriteLine("Hold or Role (h/r)");
             key = Console.ReadLine();
             n = Dice.Roll();
 
-            turn += 1;
+            
             if (key.ToLower() == "r")
             {
 
                 Console.WriteLine(n);
                 if (n == 1)
                 {
-                    Score = 0;
-                    Console.WriteLine("Your score is Lost and Score is " + Score + " and Attend at Turn " + turn);
+                    TotalScore = TotalScore + _score;
+                    _score = 0;
+                    Console.WriteLine("Your Lost your turn Score and Score is " + _score + " And Total Score is "+ TotalScore);
                     PlayGame();
                 }
                 else
                 {
-                    Score += n;
-                    if (Score < TotalScoreNeed) // TotalScoreNeed = 20
+                    
+                    TotalScore =  _score;
+                    _score = n + _score;
+                    if (TotalScore < TotalScoreNeed) // TotalScoreNeed = 20
                     {
                         PlayGame();
                     }
                     else
                     {
-                        Console.WriteLine("You Won the Game with Score " + Score + " and Attend at Turn " + turn);
+                        Console.WriteLine("You Won the Game with Total Score " + TotalScore);
                     }
 
                 }
             }
             else
             {
-                Console.WriteLine("Your Current Score is " + Score);
-                if (Score < TotalScoreNeed) // TotalScoreNeed = 20
+                
+                Console.WriteLine("Your Current turn Score is " + _score + " and Total Score is " + TotalScore);
+                _score = 0;
+                if (TotalScore < TotalScoreNeed) // TotalScoreNeed = 20
                 {
                     PlayGame();
                 }
                 else
                 {
-                    Console.WriteLine("You Won the Game with Score " + Score + " and Attend at Turn " + turn);
+                    Console.WriteLine("You Won the Game with Total Score " + TotalScore);
                 }
             }
 

@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\bin\Debug\ListCollectionApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\bin\Debug\ListCollectionApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\bin\Debug\ListCollectionApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\obj\Debug\ListCollectionApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\obj\Debug\ListCollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\obj\Debug\ListCollectionApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\ListCollectionApp\obj\Debug\ListCollectionApp.pdb

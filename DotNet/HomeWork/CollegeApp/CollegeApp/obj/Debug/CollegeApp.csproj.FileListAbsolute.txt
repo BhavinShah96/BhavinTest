@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\bin\Debug\CollegeApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\bin\Debug\CollegeApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\bin\Debug\CollegeApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\obj\Debug\CollegeApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\obj\Debug\CollegeApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\obj\Debug\CollegeApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\CollegeApp\CollegeApp\obj\Debug\CollegeApp.pdb

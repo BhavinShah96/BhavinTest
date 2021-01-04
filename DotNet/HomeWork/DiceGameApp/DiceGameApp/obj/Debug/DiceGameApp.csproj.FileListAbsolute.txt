@@ -5,3 +5,10 @@ C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.
 C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.pdb
 C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.exe
 C:\Users\NIKUNJ SHAH\source\repos\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.pdb
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.exe.config
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.exe
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\bin\Debug\DiceGameApp.pdb
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.exe
+C:\swabhav\DotNet\HomeWork\DiceGameApp\DiceGameApp\obj\Debug\DiceGameApp.pdb

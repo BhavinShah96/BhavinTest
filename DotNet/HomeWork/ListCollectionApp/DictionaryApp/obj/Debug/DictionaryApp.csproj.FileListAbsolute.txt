@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\obj\Debug\DictionaryApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\ListCollectionApp\DictionaryApp\obj\Debug\DictionaryApp.pdb

@@ -50,6 +50,7 @@ namespace InvoiceApp.Model
             return (CalculateDiscount()) + (CalculateGST());
              
         }
+        
 
     }
 }

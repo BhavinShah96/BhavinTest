@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\bin\Debug\LPSDemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\bin\Debug\LPSDemoApp.exe
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\bin\Debug\LPSDemoApp.pdb
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\obj\Debug\LPSDemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\obj\Debug\LPSDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\obj\Debug\LPSDemoApp.exe
+C:\swabhav\DotNet\HomeWork\LPSDemoApp\LPSDemoApp\obj\Debug\LPSDemoApp.pdb

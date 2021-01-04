@@ -8,6 +8,7 @@ namespace DiceGameDemoApp.Model
 {
     class Dice
     {
+        
         public static int Roll()
         {
             Random random = new Random();

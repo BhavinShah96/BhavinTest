@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\obj\Debug\GuitarAppTest.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\obj\Debug\GuitarAppTest.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\bin\Debug\GuitarAppTest.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\bin\Debug\GuitarAppTest.exe
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\bin\Debug\GuitarAppTest.pdb
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\obj\Debug\GuitarAppTest.exe
+C:\Users\NIKUNJ SHAH\source\repos\GuitarAppTest\GuitarAppTest\obj\Debug\GuitarAppTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\bin\Debug\OpenClosePrincipleApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\bin\Debug\OpenClosePrincipleApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\bin\Debug\OpenClosePrincipleApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\obj\Debug\OpenClosePrincipleApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\obj\Debug\OpenClosePrincipleApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\obj\Debug\OpenClosePrincipleApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\OpenClosePrincipleApp\OpenClosePrincipleApp\obj\Debug\OpenClosePrincipleApp.pdb

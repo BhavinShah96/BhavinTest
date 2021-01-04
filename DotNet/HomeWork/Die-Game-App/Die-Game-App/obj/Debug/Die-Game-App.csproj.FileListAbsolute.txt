@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\bin\Debug\Die-Game-App.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\bin\Debug\Die-Game-App.exe
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\bin\Debug\Die-Game-App.pdb
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\obj\Debug\Die-Game-App.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\obj\Debug\Die-Game-App.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\obj\Debug\Die-Game-App.exe
+C:\Users\NIKUNJ SHAH\source\repos\Die-Game-App\Die-Game-App\obj\Debug\Die-Game-App.pdb

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using InvoiceApp.Model;
 
 namespace InvoiceApp
 {
@@ -11,16 +12,11 @@ namespace InvoiceApp
     {
         static void Main(string[] args)
         {
-            Invoice inv = new Invoice(20220,"Bhavin",100,10,5);
-            PrintInfo(inv);
+            Invoice invoice = new Invoice(20222, "Bhavin", 25000, 10, 5);
+            InvoicePrint inv = new InvoicePrint();
+            inv.PrintInvoice(invoice);
+            
         }
-        public static void PrintInfo(Invoice i)
-        {
-            Console.WriteLine("Accont No is :" + i.AccNo);
-            Console.WriteLine("Name is :" + i.Name);
-            Console.WriteLine("Amount No is :" + (i.CalculateDiscount()));
-            Console.WriteLine("Amount No is :" + (i.CalculateGST()));
-            Console.WriteLine("Amount No is :" + (i.calculateAmount()));
-        }
+       
     }
 }
