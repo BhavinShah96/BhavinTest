@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\bin\Debug\AdaptorDemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\bin\Debug\AdaptorDemoApp.exe
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\bin\Debug\AdaptorDemoApp.pdb
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\obj\Debug\AdaptorDemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\obj\Debug\AdaptorDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\obj\Debug\AdaptorDemoApp.exe
+C:\swabhav\DotNet\HomeWork\AdaptorDemoApp\AdaptorDemoApp\obj\Debug\AdaptorDemoApp.pdb

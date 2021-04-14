@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountEventApp", "AccountEventApp\AccountEventApp.csproj", "{D9332009-A735-4A45-9308-D11C0C7CFB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9332009-A735-4A45-9308-D11C0C7CFB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9332009-A735-4A45-9308-D11C0C7CFB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9332009-A735-4A45-9308-D11C0C7CFB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9332009-A735-4A45-9308-D11C0C7CFB57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E212852A-CC34-4436-9EDF-B800005007DE}
+	EndGlobalSection
+EndGlobal

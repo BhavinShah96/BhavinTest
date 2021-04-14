@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>
+            My Second Event Fire Profram.
+        </title>
+    </head>
+        <body>
+            <input id="textBox1" type="text">
+            <button onclick="demo()">Even / Odd</button>
+            <button onclick="demo1()">Prime</button>
+            <script>
+            function demo()
+            {
+            var x = document.getElementById("textBox1").value;
+            if(x % 2 == 0)
+            {
+                alert("No : " + x + " is Even");
+            }
+            else
+            {
+                alert("No : " + x + " is Odd.");
+            }
+            }
+            function demo1()
+            {
+            var x = document.getElementById("textBox1").value;
+            if(x === 1)
+            {
+                alert("1 is neither prime nor composite value.");
+            }
+            else if(x > 1)
+            {
+                for(var i = 2 ; i <= x ; i++)
+                {
+                    if(x % i == 0){
+                        alert("No. " + x + " is not Prime.")
+                        break;
+                    }
+                    else
+                    {
+                        alert("No. " + x + " is Prime.")
+                        break;
+                    }
+                }
+            }
+            }
+
+            </script>
+        </body>
+    
+</html>

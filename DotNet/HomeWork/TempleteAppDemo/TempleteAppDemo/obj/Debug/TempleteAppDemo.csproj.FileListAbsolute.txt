@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\bin\Debug\TempleteAppDemo.exe.config
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\bin\Debug\TempleteAppDemo.exe
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\bin\Debug\TempleteAppDemo.pdb
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\obj\Debug\TempleteAppDemo.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\obj\Debug\TempleteAppDemo.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\obj\Debug\TempleteAppDemo.exe
+C:\swabhav\DotNet\HomeWork\TempleteAppDemo\TempleteAppDemo\obj\Debug\TempleteAppDemo.pdb

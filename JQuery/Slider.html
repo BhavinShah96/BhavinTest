@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <title>Slider With JQuery</title>
+    <script src="..\JQuery\jquery-3.4.1.js"></script>
+</head>
+
+<body>
+    <input id="slider" type="range" min="1" max="100">
+    <output id="sliderVal"></output>
+    <p id="para"></p>
+    <script>
+        $(document).ready(function () {
+            var SliderEle = document.getElementById("slider");
+            var ParaElement = document.getElementById("para");
+            var val = SliderEle.addEventListener("input",function () {
+                ParaElement.innerHTML = SliderEle.innerHTML;
+                for (var i = 1; i <= SliderEle.value; i++) {
+                    $("<button/>", {
+                        "class": "test",
+                        text: i,
+                    })
+                        .appendTo(ParaElement);
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

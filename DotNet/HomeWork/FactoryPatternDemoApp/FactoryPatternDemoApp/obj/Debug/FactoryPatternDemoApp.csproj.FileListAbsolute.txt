@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\bin\Debug\FactoryPatternDemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\bin\Debug\FactoryPatternDemoApp.exe
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\bin\Debug\FactoryPatternDemoApp.pdb
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\obj\Debug\FactoryPatternDemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\obj\Debug\FactoryPatternDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\obj\Debug\FactoryPatternDemoApp.exe
+C:\swabhav\DotNet\HomeWork\FactoryPatternDemoApp\FactoryPatternDemoApp\obj\Debug\FactoryPatternDemoApp.pdb

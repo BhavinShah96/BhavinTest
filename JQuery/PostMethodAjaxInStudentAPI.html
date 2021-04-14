@@ -1,0 +1,212 @@
+<htm>
+
+    <head>
+        <script src="..\JQuery\jquery-3.4.1.js"></script>
+        <style>
+            body {
+                align-content: center;
+            }
+
+            table,
+            th,
+            td {
+                border: 2px solid black;
+                border-collapse: collapse;
+                width: 1000px;
+                text-align: center;
+            }
+
+            th {
+                background-color: gray;
+            }
+
+            td {
+                background-color: lightgrey
+            }
+        </style>
+    </head>
+
+    <body>
+
+        Roll No:
+        <input type="number" id="rollno">
+        <br>
+        <br>Name :
+        <input type="text" id="name">
+        <br>
+        <br> Age :
+        <input type="number" id="age">
+        <br>
+        <br> Emil :
+        <input type="email" id="email">
+        <br>
+        <br> Date :
+        <input type="date" id="date">
+        <br>
+        <br> IsMale :
+        <input type="text" id="ismale">
+        <br>
+        <br>
+        <button id="submit">Add Data</button>
+        <button id="upd">Edit</button>
+        <br>
+        <br>
+        <table id="displayTable">
+            <tr>
+
+            </tr>
+        </table>
+        <script>
+
+            var rollNo = $("#rollno").val();
+            var Name = $("#name").val();
+            var age = $("#age").val();
+            var email = $("#email").val();
+            var date = $("#date").val();
+            var ismale = $("#ismale").val();
+
+
+
+            $(document).ready(function () {
+                var actualUrl = "http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/";
+                var RollNo = $("#rollno").val();
+                var Name = $("#name").val();
+                var Age = $("#age").val();
+                var Email = $("#email").val();
+                var Date = $("#date").val();
+                var Ismale;
+                if ($("#ismale").val() == 'yes' || $("#ismale").val() == 'Yes') {
+
+                    Ismale = 'true';
+                }
+                else {
+                    Ismale = 'false';
+                }
+
+                $("#submit").click(function () {
+                    $.ajax({
+                        type: "POST",
+                        url: "http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/",
+                        data: {
+                            rollNo: RollNo,
+                            name: Name,
+                            age: Age,
+                            email: Email,
+                            date: Date,
+                            ismale: Ismale
+                        },
+                        success: function (data) {
+                            console.log(data);
+                        }
+                    });
+                    $("#rollno").val(null);
+                    $("#name").val(null);
+                    $("#age").val(null);
+                    $("#email").val(null);
+                    $("#date").val(null);
+                    $("#ismale").val(null);
+
+                });
+
+
+                function deleteStudent() {
+
+                    var id = $(this).val().substring(6);
+                    var completeUrl = actualUrl + id;
+                    $.ajax({
+                        type: "DELETE", url: completeUrl, success: function (result) {
+                            location.reload("file:///C:/swabhav/JQuery/PostMethodAjaxInStudentAPI.html");
+                        }
+                    });
+                }
+
+
+                var rowID;
+                function UpdateData() {
+                    var id = $(this).val().substring(6);
+                    rowID = id;
+                    var completeUrl = actualUrl + id;
+                    $.ajax({
+                        type: "GET", url: completeUrl, success: function (result) {
+
+                            for (var i = 0; i < result.length; i++) {
+                                $("#rollno").val(result[i].rollNo);
+                                $("#name").val(result[i].name);
+                                $("#age").val(result[i].age);
+                                $("#email").val(result[i].email);
+                                $("#date").val(result[i].date);
+
+                                if (result[i].ismale == 'false') {
+                                    $("#ismale").val(null);
+                                }
+                                else {
+                                    $("#ismale").val(result[i].ismale);
+                                }
+                            }
+                        }
+                    });
+                }
+
+                $("#upd").click(function () {
+                    console.log(rowID);
+                    var completeUrl = actualUrl + rowID;
+                    $.ajax({
+                        type: "PUT",
+                        url: completeUrl,
+                        data: {
+                            "rollNo": RollNo,
+                            "name": Name,
+                            "age": Age,
+                            "email": Email,
+                            "date": Date,
+                            "ismale": Ismale    
+                        },
+                        success: function (data) {
+                            console.log(rowID);
+                        }
+                    });
+                });
+
+
+                $.ajax({
+                    type: "GET",
+                    url: "http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/",
+                    success: function (result) {
+
+                        $("#displayTable tbody tr:last").append("<th>ID</th>");
+                        $("#displayTable tbody tr:last").append("<th>Roll No.</th>");
+                        $("#displayTable tbody tr:last").append("<th>Name</th>");
+                        $("#displayTable tbody tr:last").append("<th>Age</th>");
+                        $("#displayTable tbody tr:last").append("<th>Email</th>");
+                        $("#displayTable tbody tr:last").append("<th>Date</th>");
+                        $("#displayTable tbody tr:last").append("<th>IsMale</th>");
+                        $("#displayTable tbody tr:last").append("<th>Update</th>");
+                        $("#displayTable tbody tr:last").append("<th>Delete</th>");
+
+                        for (var i = 0; i < result.length; i++) {
+
+                            $("#displayTable tbody").append("<tr></tr>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].id + "</td>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].rollNo + "</td>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].name + "</td>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].age + "</td>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].email + "</td>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].date + "</td>");
+                            $("#displayTable tbody tr:last").append("<td>" + result[i].isMale + "</td>");
+
+                            $("#displayTable tbody tr:last").append("<td><button value = Update" + result[i].id + ">Update</button></td>");
+                            $("button[value = Update" + result[i].id + "]").click(UpdateData);
+
+                            $("#displayTable tbody tr:last").append("<td><button value = delete" + result[i].id + ">Delete</button></td>");
+                            $("button[value = delete" + result[i].id + "]").click(deleteStudent);
+                        }
+
+                    }
+                });
+
+            });
+
+
+        </script>
+    </body>
+</htm>

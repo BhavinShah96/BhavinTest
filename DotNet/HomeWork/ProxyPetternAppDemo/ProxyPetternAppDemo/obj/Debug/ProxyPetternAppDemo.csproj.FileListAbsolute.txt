@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\bin\Debug\ProxyPetternAppDemo.exe.config
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\bin\Debug\ProxyPetternAppDemo.exe
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\bin\Debug\ProxyPetternAppDemo.pdb
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\obj\Debug\ProxyPetternAppDemo.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\obj\Debug\ProxyPetternAppDemo.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\obj\Debug\ProxyPetternAppDemo.exe
+C:\swabhav\DotNet\HomeWork\ProxyPetternAppDemo\ProxyPetternAppDemo\obj\Debug\ProxyPetternAppDemo.pdb

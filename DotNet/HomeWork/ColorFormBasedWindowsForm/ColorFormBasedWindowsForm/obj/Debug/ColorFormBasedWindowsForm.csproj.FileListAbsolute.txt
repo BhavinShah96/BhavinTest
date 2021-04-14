@@ -1,0 +1,9 @@
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\bin\Debug\ColorFormBasedWindowsForm.exe.config
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\bin\Debug\ColorFormBasedWindowsForm.exe
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\bin\Debug\ColorFormBasedWindowsForm.pdb
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\obj\Debug\ColorFormBasedWindowsForm.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\obj\Debug\ColorFormBasedWindowsForm.ColorForm.resources
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\obj\Debug\ColorFormBasedWindowsForm.csproj.GenerateResource.cache
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\obj\Debug\ColorFormBasedWindowsForm.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\obj\Debug\ColorFormBasedWindowsForm.exe
+C:\swabhav\DotNet\HomeWork\ColorFormBasedWindowsForm\ColorFormBasedWindowsForm\obj\Debug\ColorFormBasedWindowsForm.pdb

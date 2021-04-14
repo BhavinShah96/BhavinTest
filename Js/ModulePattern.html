@@ -1,0 +1,26 @@
+<html>
+    <body>
+        <script>
+        function marksStudent()
+        {
+            var obj = {}
+            var _rollNo,_name;
+            obj.setRollNo = function(rollno){
+                if(rollno > 0)
+                _rollNo = rollno;
+            }
+            obj.setName = function(name){
+                _name = name;
+            }
+            obj.getDetails = function(){
+                return "Roll No : " + _rollNo + " Name : "+ _name;
+            }
+            return obj;
+        }
+        var s1 = marksStudent()
+        s1.setRollNo(1);
+        s1.setName("Bhavin");
+        console.log(s1.getDetails());
+        </script>
+    </body>
+</html>

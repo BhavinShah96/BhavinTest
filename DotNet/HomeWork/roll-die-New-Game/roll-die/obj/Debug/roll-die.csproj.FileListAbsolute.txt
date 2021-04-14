@@ -1,0 +1,14 @@
+D:\My Data\Swabhav\roll-die\roll-die\bin\Debug\roll-die.exe.config
+D:\My Data\Swabhav\roll-die\roll-die\bin\Debug\roll-die.exe
+D:\My Data\Swabhav\roll-die\roll-die\bin\Debug\roll-die.pdb
+D:\My Data\Swabhav\roll-die\roll-die\obj\Debug\roll-die.csprojAssemblyReference.cache
+D:\My Data\Swabhav\roll-die\roll-die\obj\Debug\roll-die.csproj.CoreCompileInputs.cache
+D:\My Data\Swabhav\roll-die\roll-die\obj\Debug\roll-die.exe
+D:\My Data\Swabhav\roll-die\roll-die\obj\Debug\roll-die.pdb
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\bin\Debug\roll-die.exe.config
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\bin\Debug\roll-die.exe
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\bin\Debug\roll-die.pdb
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\obj\Debug\roll-die.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\obj\Debug\roll-die.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\obj\Debug\roll-die.exe
+C:\swabhav\DotNet\HomeWork\roll-die\roll-die\obj\Debug\roll-die.pdb

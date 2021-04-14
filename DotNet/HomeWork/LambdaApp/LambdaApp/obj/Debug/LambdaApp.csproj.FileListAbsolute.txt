@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\bin\Debug\LambdaApp.exe.config
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\bin\Debug\LambdaApp.exe
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\bin\Debug\LambdaApp.pdb
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\obj\Debug\LambdaApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\obj\Debug\LambdaApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\obj\Debug\LambdaApp.exe
+C:\swabhav\DotNet\HomeWork\LambdaApp\LambdaApp\obj\Debug\LambdaApp.pdb

@@ -1,0 +1,71 @@
+<html>
+
+<head>
+    <script src="..\JQuery\jquery-3.4.1.js"></script>
+    <style>
+        table,
+        th,
+        td {
+            border: 3px solid black;
+            border-collapse: collapse;
+            width: 000px;
+        }
+
+        th {
+            background-color: greenyellow;
+        }
+
+        td {
+            background-color: aliceblue;
+        }
+    </style>
+
+</head>
+
+<body>
+    <button id="addData">Open Form</button>
+    <table id="displayTable">
+        <tr></tr>
+    </table>
+    <script>
+        $(document).ready(function () {
+            getContries();
+            $("#addData").click(function () {
+                window.open("file:///C:/swabhav/JQuery/PostMethodAjaxInStudentAPI.html");
+            })
+        });
+
+        function getContries() {
+
+            $.ajax({
+                type: "GET",
+                url: "http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/",
+                success: function (result) {
+
+                    $("#displayTable tbody tr:last").append("<th>ID</th>");
+                    $("#displayTable tbody tr:last").append("<th>Roll No.</th>");
+                    $("#displayTable tbody tr:last").append("<th>Name</th>");
+                    $("#displayTable tbody tr:last").append("<th>Age</th>");
+                    $("#displayTable tbody tr:last").append("<th>Email</th>");
+                    $("#displayTable tbody tr:last").append("<th>Date</th>");
+                    $("#displayTable tbody tr:last").append("<th>IsMale</th>");
+
+                    for (var i = 0; i < result.length; i++) {
+
+                        $("#displayTable tbody").append("<tr></tr>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].id + "</td>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].rollNo + "</td>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].name + "</td>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].age + "</td>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].email + "</td>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].date + "</td>");
+                        $("#displayTable tbody tr:last").append("<td>" + result[i].isMale + "</td>");
+                    }
+
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

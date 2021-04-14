@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <script src="..\JQuery\jquery-3.4.1.js"></script>
+</head>
+
+<body>
+    Name :
+    <input id="textChange" type="text">
+    <br>
+    <br> Font :
+    <input id="fontChange" type="number" min="1" max="50" value="10">
+    <br>
+    <br> Back Ground :
+    <input id="backGroundChange" type="text">
+    <br>
+    <br> Fore Ground :
+    <input id="foregroundchange" type="text">
+    <br>
+    <p id="display">
+        <span></span>
+    </p>
+
+    <script>
+        $(document).ready(function () {
+            $("#textChange").on("input", function () {
+                $("#display span").text(($("#textChange").val()));
+            });
+            $("#fontChange").on("change", function () {
+                var fontSizeValue = $("#fontChange").val();
+                $("#display span").css("font-size", fontSizeValue + "px");
+            });
+            $("#backGroundChange").on("input", function () {
+                var color = $("#backGroundChange").val();
+                $("#display span").css("background-color", color);
+            });
+            $("#foregroundchange").on("input", function () {
+                var color = $("#foregroundchange").val();
+                $("#display span").css("color", color);
+            });
+        });
+
+    </script>
+</body>
+
+</html>

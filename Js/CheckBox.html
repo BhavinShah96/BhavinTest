@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <input type="checkbox" id="check"  onclick="func()">
+        <br><br>
+        <img src="E:\Photos\1419573936036.jpg" id="img" style="display: none">
+        <script>
+        function func() {
+            var x = document.getElementById("img");
+            var checkBox = document.getElementById("check");
+            if(checkBox.checked == true)
+            {
+               x.style.display = "block";
+            }
+            else
+            {
+                x.style.display = "none";
+            }
+        }
+        </script>
+    </body>
+</html>

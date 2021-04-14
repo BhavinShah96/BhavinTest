@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\bin\Debug\FuncActionPredicate1DemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\bin\Debug\FuncActionPredicate1DemoApp.exe
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\bin\Debug\FuncActionPredicate1DemoApp.pdb
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\obj\Debug\FuncActionPredicate1DemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\obj\Debug\FuncActionPredicate1DemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\obj\Debug\FuncActionPredicate1DemoApp.exe
+C:\swabhav\DotNet\HomeWork\FuncActionPredicate1DemoApp\FuncActionPredicate1DemoApp\obj\Debug\FuncActionPredicate1DemoApp.pdb

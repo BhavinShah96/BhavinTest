@@ -1,0 +1,39 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <script src="..\JQuery\jquery-3.4.1.js"></script>
+    <div style="text-align: center;padding-top:50px">
+        <button id="btn1">Red---</button>
+        <button id="btn2">Blue---</button>
+        <script>
+            $(document).ready(function () {
+                // $("#btn1").click(function () {
+                //     alert("This is red button");
+                //     $("#btn1").css({ "background-color": "Red" });
+                // });
+                // $("#btn2").click(function () {
+                //     alert("This is Blue button");
+                //     $("#btn2").css({ "background-color": "Blue" });
+                // });
+                $("#btn1").click(function () {
+                    $("#btn1").css({ "background-color": "Red" });
+                });
+                $("#btn2").click(function () {
+                    $("#btn1").css({ "background-color": "Blue" });
+                });
+                $("#btn1").click(function () {
+                    $("#btn1").css({ "color": "Red" });
+                });
+                $("#btn2").click(function () {
+                    $("#btn1").css({ "color": "Blue" });
+                });
+            });
+        </script>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\bin\Debug\LinqToFileSystem.exe.config
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\bin\Debug\LinqToFileSystem.exe
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\bin\Debug\LinqToFileSystem.pdb
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\obj\Debug\LinqToFileSystem.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\obj\Debug\LinqToFileSystem.exe
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\obj\Debug\LinqToFileSystem.pdb
+C:\swabhav\DotNet\HomeWork\LinqToFileSystem\LinqToFileSystem\obj\Debug\LinqToFileSystem.csprojAssemblyReference.cache

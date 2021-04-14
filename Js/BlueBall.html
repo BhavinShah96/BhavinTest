@@ -1,0 +1,91 @@
+<html>
+
+<head>
+    <title>Blue Ball Game</title>
+    <style>
+        .circles {
+            margin-top: 10px;
+            width: auto;
+            height: auto;
+            background-color: #c7c0c0;
+        }
+
+        #rules {
+            text-align: center;
+            color: red;
+        }
+
+        p {
+            font-weight: bold;
+            text-justify: auto;
+        }
+    </style>
+</head>
+
+<body onload="func();">
+    <!-- <canvas id="canvas" style="width: auto;height: auto"></canvas> -->
+    <p id="rules">RULES OF BLUE BALL GAME </p>
+    <p>
+        <1> In this game every player got just 3 trails to play.</p>
+    <p>
+        <2> Ball Color turn YELLOW = Selected Ball Value is Less then Random No.</p>
+    <p>
+        <3> Ball Color turn RED = Selected Ball Value is Greter then Random No.</p>
+    <p>
+        <4> Ball Color turn BLUE = Selected Ball Value is Equel to Random No. and Then You win the Game</p>
+
+    <p id="clicks"></p>
+    <div id="mainDiv"></div>
+    <script>
+        var x = Math.floor((Math.random() * 12) + 1);
+        console.log(x);
+        var no = 1;
+        function func() {
+            var div = document.getElementById("mainDiv");
+            for (var i = 1; i <= 12; i++) {
+                var cir = document.createElement("canvas");
+                cir.setAttribute("id", i);
+                cir.setAttribute("value", i);
+                cir.setAttribute("class", "circles")
+                div.appendChild(cir);
+                draw(cir.id);
+            }
+        }
+        function draw(id) {
+            var clicks = 0;
+            var no = 1
+            var canvas = document.getElementById(id);
+            window.addEventListener('click', function () {
+                clicks += 1;
+                console.log(clicks);
+            }, false);
+            var ctx = canvas.getContext('2d');
+            var X = canvas.width / 2;
+            var Y = canvas.height / 2;
+            var R = 30;
+            var turn = 1;
+            ctx.beginPath();
+            ctx.arc(X, Y, R, 0, 2 * Math.PI, true);
+            ctx.lineWidth = 1;
+            ctx.strokeStyle = '#FF0000';
+            ctx.fillText(id++, X, Y);
+            canvas.onclick = function () {
+                if (id == x) {
+                    ctx.fillStyle = "Blue";
+                    ctx.fill();
+                }
+                else if (id > x) {
+                    ctx.fillStyle = "Red"
+                    ctx.fill();
+                }
+                else if (id < x) {
+                    ctx.fillStyle = "Yellow"
+                    ctx.fill();
+                }
+            }
+            ctx.stroke();
+        }
+    </script>
+</body>
+
+</html>

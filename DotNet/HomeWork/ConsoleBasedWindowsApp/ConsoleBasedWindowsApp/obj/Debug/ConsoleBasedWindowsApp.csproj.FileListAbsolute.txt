@@ -1,0 +1,9 @@
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\bin\Debug\ConsoleBasedWindowsApp.exe.config
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\bin\Debug\ConsoleBasedWindowsApp.exe
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\bin\Debug\ConsoleBasedWindowsApp.pdb
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\obj\Debug\ConsoleBasedWindowsApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\obj\Debug\ConsoleBasedWindowsApp.WelCome.resources
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\obj\Debug\ConsoleBasedWindowsApp.csproj.GenerateResource.cache
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\obj\Debug\ConsoleBasedWindowsApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\obj\Debug\ConsoleBasedWindowsApp.exe
+C:\swabhav\DotNet\HomeWork\ConsoleBasedWindowsApp\ConsoleBasedWindowsApp\obj\Debug\ConsoleBasedWindowsApp.pdb

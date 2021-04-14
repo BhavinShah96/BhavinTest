@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <p>Hello World</p>
+        <p>This is a javascript</p>
+        <p id="demo"></p>
+        <script>
+        function func()
+        {
+        var x = document.getElementsByTagName("p");
+        document.getElementById("demo").innerHTML = x[0].innerHTML;
+        document.writeln(x);
+        }
+        func();
+        </script>
+    </body>
+</html>

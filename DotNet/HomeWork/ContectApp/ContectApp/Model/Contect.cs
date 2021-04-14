@@ -8,9 +8,9 @@ namespace ContectApp.Model
 {
     class Contect
     {
-        public string fname { get; set; }
-        public string lname { get; set; }
-        public double phoneNo { get; set; }
+        public int PhoneNo { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
         public string email { get; set; }
 
         //public Contact(string fname, string lname, long phoneNo, string email)

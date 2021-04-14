@@ -1,0 +1,8 @@
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\bin\Debug\TexrBoxInWindowsFormApp.exe.config
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\bin\Debug\TexrBoxInWindowsFormApp.exe
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\bin\Debug\TexrBoxInWindowsFormApp.pdb
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\obj\Debug\TexrBoxInWindowsFormApp.TextBoxDemoApp.resources
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\obj\Debug\TexrBoxInWindowsFormApp.csproj.GenerateResource.cache
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\obj\Debug\TexrBoxInWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\obj\Debug\TexrBoxInWindowsFormApp.exe
+C:\swabhav\DotNet\HomeWork\TexrBoxInWindowsFormApp\TexrBoxInWindowsFormApp\obj\Debug\TexrBoxInWindowsFormApp.pdb

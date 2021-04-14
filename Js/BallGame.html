@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+        function eEmployee(id,name)
+        {
+            this.id = id;
+            this.name = name;
+        }
+        eEmployee.prototype.getDetails = function(){
+            return " ID :" + this.id + " Name :" + this.name;
+        }
+        var e1 = new eEmployee(1,"Bhavin");
+        console.log(e1);
+        console.log(e1.getDetails());
+        console.log(eEmployee.prototype == e1.__proto__);
+        console.log(e1.__proto__);
+        console.log(eEmployee.prototype);
+        var e2 = new eEmployee(2,"Inder");
+        console.log(e2);
+        console.log(eEmployee.prototype == e2.__proto__);
+        console.log(e1.__proto__ == e2.__proto__);
+        console.log(eEmployee.prototype.__proto__);
+        console.log(Object.prototype.__proto__);
+        console.log(eEmployee.prototype.__proto__ == Object.prototype);
+        console.log(Object.prototype);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+<html>
+    <head>
+    </head>
+    <body id="body1">
+        <button id="btn" value="Red">Red</button>
+        <button id="btn1" value="Blue">Blue</button>
+        <script>
+        // document.getElementById("btn").addEventListener("click",function(){
+        //     alert("Hello");
+        // })
+        // document.getElementById("btn").addEventListener("click",function(){
+        //     alert("Bye");
+        // })
+        var x = document.getElementById("body1");
+        document.getElementById("btn").addEventListener("click",color);
+        document.getElementById("btn1").addEventListener("click",color);
+        function color(e)
+        {
+           x.style.backgroundColor = e.target.innerHTML;
+        }
+
+        
+        </script>
+    </body>
+</html>

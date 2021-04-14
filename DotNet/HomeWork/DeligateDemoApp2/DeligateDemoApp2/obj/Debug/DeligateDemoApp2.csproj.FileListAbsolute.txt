@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\bin\Debug\DeligateDemoApp2.exe.config
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\bin\Debug\DeligateDemoApp2.exe
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\bin\Debug\DeligateDemoApp2.pdb
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\obj\Debug\DeligateDemoApp2.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\obj\Debug\DeligateDemoApp2.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\obj\Debug\DeligateDemoApp2.exe
+C:\swabhav\DotNet\HomeWork\DeligateDemoApp2\DeligateDemoApp2\obj\Debug\DeligateDemoApp2.pdb

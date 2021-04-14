@@ -1,0 +1,41 @@
+<html>
+    <script>
+     var arr = [1,2,3,4,5]
+     function create(value)
+     {
+         arr.push(value);
+     }
+
+     function read()
+     {
+         for(var i = 0 ; i < arr.length; i++)
+         {
+             console.log(arr[i]);
+         }
+     }
+
+     function update(position, new_value)
+     {
+         arr[position] = new_value;
+     }
+     function del(value)
+     {
+         var index = arr.indexOf(value);
+         if(index !== -1)
+         {
+             arr.splice(index,1);
+         }
+     }
+
+
+    create(7);
+    read();
+    console.log("\n");
+    update(3,9);
+    read();
+    console.log("\n");
+    del(4);
+    read();
+    </script>
+    
+</html>

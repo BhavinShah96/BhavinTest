@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <p id="intro">Hello World.</p>
+        <p id="demo"></p>
+        <script>
+        function func()
+        {
+           var x = console.log(document.getElementById("intro"));
+      var y =  document.getElementById("demo").innerHTML = "The text comes from first paragraph is " + x.innerHTML;
+           document.writeln(y);     
+        }
+        func();
+        </script>
+    </body>
+</html>

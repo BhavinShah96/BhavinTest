@@ -1,0 +1,67 @@
+<html>
+
+<head>
+    <title>To Do List</title>
+    <style>
+        table,
+        th,
+        td {
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>My TO Do List</h2>
+    <input type="text" id="text">
+    <button id="toDo" onclick="func()">Add Data</button>
+    <br>
+    <br>
+    <table id="table1" style="width:100%">
+        <tr id="demo" style="background-color: chartreuse">
+            <th>Checked</th>
+            <th>Description</th>
+            <th>Remove</th>
+        </tr>
+    </table>
+    <script>
+        function func() {
+            var i = 0;
+            var tb = document.getElementById("table1");
+            var tr = document.createElement("tr");
+            tr.id = i + 1;
+            tb.appendChild(tr);
+
+            var chkbox = document.createElement("td");
+            tr.appendChild(chkbox);
+            var checkbox = document.createElement("INPUT")
+            checkbox.setAttribute("type", "checkbox");
+            chkbox.appendChild(checkbox);
+
+            var desc = document.createElement("td");
+            tr.appendChild(desc);
+            var text = document.getElementById("text");
+            desc.innerHTML = text.value;
+
+            var button = document.createElement("td");
+            tr.appendChild(button);
+            var remove = document.createElement("BUTTON");
+            remove.className = "closed";
+            remove.innerText = "Remove";
+            button.appendChild(remove);
+            
+            var closee = document.getElementsByClassName("closed");
+            for (var i = 0; i < closee.length; i++) {
+                closee[i].onClick = function (){
+                    var div = this.parentElement;
+                    div.style.display = "none";
+                }
+            }
+            text.value = null;
+        }
+
+    </script>
+</body>
+
+</html>

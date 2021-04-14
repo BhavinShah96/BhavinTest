@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <button id="start" onClick="setTimeout(Time(),10000)">Start</button>
+        <button id="stop" onclick="clearTimeout(Time(),10000)">Stop</button>
+        <script>
+        function Time()
+        {
+            var d = new Date();
+            console.log(d.getHours() + " : " + d.getMinutes() + " : " + d.getSeconds());
+        }
+        
+        </script>
+    </body>
+</html>

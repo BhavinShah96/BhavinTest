@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\bin\Debug\FuncDemoApp.exe.config
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\bin\Debug\FuncDemoApp.exe
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\bin\Debug\FuncDemoApp.pdb
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\obj\Debug\FuncDemoApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\obj\Debug\FuncDemoApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\obj\Debug\FuncDemoApp.exe
+C:\swabhav\DotNet\HomeWork\FuncDemoApp\FuncDemoApp\obj\Debug\FuncDemoApp.pdb

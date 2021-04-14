@@ -1,0 +1,9 @@
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\bin\Debug\WelcomeFormInWindowsApp.exe.config
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\bin\Debug\WelcomeFormInWindowsApp.exe
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\bin\Debug\WelcomeFormInWindowsApp.pdb
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\obj\Debug\WelcomeFormInWindowsApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\obj\Debug\WelcomeFormInWindowsApp.WelcomeForm.resources
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\obj\Debug\WelcomeFormInWindowsApp.csproj.GenerateResource.cache
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\obj\Debug\WelcomeFormInWindowsApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\obj\Debug\WelcomeFormInWindowsApp.exe
+C:\swabhav\DotNet\HomeWork\WelcomeFormInWindowsApp\WelcomeFormInWindowsApp\obj\Debug\WelcomeFormInWindowsApp.pdb

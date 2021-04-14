@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="../JQuery/jquery-3.4.1.js"></script>
+
+    <style>
+        body {
+            align-content: center;
+        }
+
+        table,
+        th,
+        td {
+            border: 2px solid black;
+            border-collapse: collapse;
+            width: 1000px;
+            text-align: center;
+        }
+
+        th {
+            background-color: gray;
+        }
+
+        td {
+            background-color: lightgrey
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>Roll No :</th>
+            <td> <input type="text" id="roll" /> </td>
+        </tr>
+        <tr>
+            <th>Name :</th>
+            <td> <input type="text" id="name" /> </td>
+        </tr>
+        <tr>
+            <th>Age :</th>
+            <td> <input type="text" id="age" /> </td>
+        </tr>
+        <tr>
+            <th>E-mail :</th>
+            <td> <input type="text" id="email" /> </td>
+        </tr>
+        <tr>
+            <th>Is-Male :</th>
+            <td> <input type="radio" name="male" id="ismale" /> </td>
+        </tr>
+        <tr>
+            <th>Date :</th>
+            <td> <input type="date" id="date" /> </td>
+        </tr>
+        <tr>
+            <td> <button type="submit" id="submit"> Add </button> </td>
+            <td> <button type="submit" id="upd"> Update </button> </td>
+        </tr>
+    </table>
+    <br>
+    <table id="displayTable">
+        <tr>
+
+        </tr>
+    </table>
+
+    <script>
+        $("#displayTable tbody tr:last").append("<th id = 'head'>Roll No.</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>Name</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>Age</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>E-mail</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>IsMale</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>Date</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>Delete</th>");
+        $("#displayTable tbody tr:last").append("<th id = 'head'>Edit</th>");
+
+        $(document).ready(function () {
+
+            getData();
+
+            $('#submit').click(function () {
+
+                var roll = $('#roll').val();
+                var name = $('#name').val();
+                var age = $('#age').val();
+                var email = $('#email').val();
+                var isMale = $('input[name="male"]:checked').attr("ismale");
+                var MaleBool = (isMale == "true");
+
+                //insertData(roll,name,age,email)
+                getData();
+            });
+
+            function insertData(roll, name, age, email) {
+                $.ajax({
+                    url: 'http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/',
+                    type: 'POST',
+                    data: {
+                        "rollNo": roll,
+                        "name": name,
+                        "age": age,
+                        "email": email,
+                        "isMale": "",
+                    },
+                    dataType: 'json',
+                    success: function (data) {
+                        // window.open("StudentAPI.html", "_self");
+                        console.log(data);
+                    }
+                });
+                $('input[name="isMale"]:checked').prop('checked', false);
+            }
+
+            function getData() {
+                $.ajax({
+                    url: 'http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/',
+                    type: 'GET',
+                    success: function (result) {
+
+                        console.log(result.length);
+
+                        for (var i = 0; i < 10; i++) {
+                            $("#displayTable tbody").append("<tr></tr>");
+                            $("#displayTable tbody tr:last").append("<td id = 'grid'>" + result[i].rollNo + "</td>");
+                            $("#displayTable tbody tr:last").append("<td id = 'grid'>" + result[i].name + "</td>");
+                            $("#displayTable tbody tr:last").append("<td id = 'grid'>" + result[i].age + "</td>");
+                            $("#displayTable tbody tr:last").append("<td id = 'grid'>" + result[i].email + "</td>");
+                            $("#displayTable tbody tr:last").append("<td id = 'grid'>" + result[i].isMale + "</td>");
+                            $("#displayTable tbody tr:last").append("<td id = 'grid'>" + result[i].date + "</td>");
+                            $("#displayTable tbody tr:last").append("<td><button value = delete" + result[i].id + ">Delete</button></td>");
+                            $("button[value = delete" + result[i].id + "]").click(deleteData);
+                            $("#displayTable tbody tr:last").append("<td><button value = update" + result[i].id + ">Edit</button></td>");
+                            $("button[value = update" + result[i].id + "]").click(updateData);
+                        }
+                    }
+                });
+            }
+
+            function deleteData() {
+                var id = $(this).val().substring(6);
+                console.log(id);
+                var completeUrl = 'http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/' + id;
+                $.ajax({
+                    type: "DELETE", url: completeUrl, success: function (result) {
+                        window.open("StudentAPI.html", "_self");
+                        getData();
+                    }
+                });
+            }
+
+            var rowid;
+
+            function updateData() {
+                rowid = $(this).val().substring(6);
+                console.log(rowid);
+
+                var completeUrl = 'http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/' + rowid;
+                $.ajax({
+                    type: "GET",
+                    url: completeUrl,
+                    dataType: 'json',
+                    success: function (data) {
+
+                        console.log(data);
+
+                        $('#roll').val(data[0]['rollNo']);
+                        $('#name').val(data[0]['name']);
+                        $('#age').val(data[0]['age']);
+                        $('#email').val(data[0]['email']);
+                        $('#date').val(data[0]['date']);
+                    }
+                });
+            }
+
+            $('#upd').click(function () {
+
+                console.log(rowid);
+
+                var completeUrl = 'http://gsmktg.azurewebsites.net/api/v1/techlabs/test/students/' + rowid;
+                $.ajax({
+                    type: "PUT",
+                    url: completeUrl,
+                    data: {
+                        "rollNo": $('#roll').val(),
+                        "name": $('#name').val(),
+                        "age": $('#age').val(),
+                        "email": $('#email').val(),
+                        "isMale": "",
+                    },
+                    dataType: 'json',
+                    success: function (data) {
+                        console.log(data);
+                        location.reload("file:///C:/swabhav/JQuery/PostMethodInAJAX.html");
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+
+</html>

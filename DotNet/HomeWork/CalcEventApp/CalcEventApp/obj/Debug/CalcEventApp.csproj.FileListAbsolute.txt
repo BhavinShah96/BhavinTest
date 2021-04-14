@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\bin\Debug\CalcEventApp.exe.config
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\bin\Debug\CalcEventApp.exe
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\bin\Debug\CalcEventApp.pdb
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\obj\Debug\CalcEventApp.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\obj\Debug\CalcEventApp.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\obj\Debug\CalcEventApp.exe
+C:\swabhav\DotNet\HomeWork\CalcEventApp\CalcEventApp\obj\Debug\CalcEventApp.pdb

@@ -1,0 +1,86 @@
+<htm>
+
+    <head>
+        <script src="..\JQuery\jquery-3.4.1.js"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="C:\swabhav\BootStrap\bootstrap-3.4.1-dist\css\bootstrap.css">
+        <script src="C:\swabhav\BootStrap\bootstrap-3.4.1-dist\js\bootstrap.min.js"></script>
+    </head>
+
+    <body>
+        <div class="jumbotron" style="background-color: cadetblue" align="center">
+            Product ID:
+            <select name="ProductID" id="Proid">
+                <option value="0">--Select--</option>
+                <option value="Apple123">Apple123</option>
+                <option value="Banana456">Banana456</option>
+                <option value="Orange789">Orange789</option>
+                <option value="Mango523">Mango523</option>
+            </select>
+            <br>
+            <br> Product Name :
+            <select name="ProductID" id="name">
+                <option value="0">--Select--</option>
+                <option value="Apple">Apple</option>
+                <option value="Banana">Banana</option>
+                <option value="Orange">Orange</option>
+                <option value="Mango">Mango</option>
+            </select>
+            <br>
+            <br> Cost :
+            <input type="number" id="cost">
+            <br>
+            <br> Discount :
+            <input type="number" id="discount">
+            <br>
+            <br>
+            <button id="submit" class="btn btn-primary">Submit</button>
+            <br>
+            <br>
+        </div>
+        <div class="container">
+            <div class="table-responsive">
+                <table id="displayTable" class="table table-hover  table-condensed">
+                    <tr>
+                        <th>Product ID</th>
+                        <th>Product Name</th>
+                        <th>Cost</th>
+                        <th>Discount</th>
+                        <th>Total Cost</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <script>
+            // $("#displayTable tbody tr:last").append("<th>Product ID</th>");
+            // $("#displayTable tbody tr:last").append("<th>Product Name</th>");
+            // $("#displayTable tbody tr:last").append("<th>Cost</th>");
+            // $("#displayTable tbody tr:last").append("<th>Discount</th>");
+            // $("#displayTable tbody tr:last").append("<th>Total Cost</th>");
+            $(document).ready(function () {
+                $("#submit").click(function () {
+                    var Proid = $("#Proid").val();
+                    var name = $("#name").val();
+                    var cost = $("#cost").val();
+                    var discount = $("#discount").val();
+                    getData(Proid, name, cost, discount);
+
+                })
+            });
+            function getData(Proid, name, cost, discount) {
+                $("#displayTable tbody").append("<tr></tr>");
+                $("#displayTable tbody tr:last").append("<td>" + Proid + "</td>");
+                $("#displayTable tbody tr:last").append("<td>" + name + "</td>");
+                $("#displayTable tbody tr:last").append("<td>" + cost + "</td>");
+                $("#displayTable tbody tr:last").append("<td>" + discount + "</td>");
+                $("#displayTable tbody tr:last").append("<td>" + (cost - (cost * discount / 100)) + "</td>");
+
+                $("#Proid").val(null);
+                $("#name").val(null);
+                $("#cost").val(null);
+                $("#discount").val(null);
+            }
+        </script>
+    </body>
+</htm>

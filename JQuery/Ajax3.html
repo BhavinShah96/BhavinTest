@@ -1,0 +1,52 @@
+<htm>
+
+    <head>
+        <script src="..\JQuery\jquery-3.4.1.js"></script>
+        <style>
+        body{
+            align-content: center;
+        }
+        </style>
+    </head>
+
+    <body>
+        RollNo:
+        <input type="number" id="rollno">
+        <br>
+        <br> Name :
+        <input type="name" id="name">
+        <br>
+        <br> CGPA :
+        <input type="number" id="cgpa">
+        <br>
+        <br>
+        <button id="submit">Submit</button>
+
+        <table id="displayTable">
+            <tr>
+
+            </tr>
+        </table>
+        <script>
+            $("#displayTable tbody tr:last").append("<th>Roll No</th>");
+            $("#displayTable tbody tr:last").append("<th>Name</th>");
+            $("#displayTable tbody tr:last").append("<th>CGPA</th>");
+
+            $(document).ready(function () {
+                $("#submit").click(function () {
+                    var roll = $("#rollno").val();
+                    var name = $("#name").val();
+                    var cgpa = $("#cgpa").val();
+                    getData(roll, name, cgpa);
+
+                })
+            });
+            function getData(roll, name, cgpa) {
+                $("#displayTable tbody").append("<tr></tr>");
+                $("#displayTable tbody tr:last").append("<td>" + roll + "</td>");
+                $("#displayTable tbody tr:last").append("<td>" + name + "</td>");
+                $("#displayTable tbody tr:last").append("<td>" + cgpa + "</td>");
+            }
+        </script>
+    </body>
+</htm>

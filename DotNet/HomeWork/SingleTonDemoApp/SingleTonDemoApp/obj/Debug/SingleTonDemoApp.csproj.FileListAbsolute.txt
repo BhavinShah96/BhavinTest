@@ -1,0 +1,7 @@
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\bin\Debug\SingleTonDemoApp.exe.config
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\bin\Debug\SingleTonDemoApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\bin\Debug\SingleTonDemoApp.pdb
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\obj\Debug\SingleTonDemoApp.csprojAssemblyReference.cache
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\obj\Debug\SingleTonDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\obj\Debug\SingleTonDemoApp.exe
+C:\Users\NIKUNJ SHAH\source\repos\SingleTonDemoApp\SingleTonDemoApp\obj\Debug\SingleTonDemoApp.pdb

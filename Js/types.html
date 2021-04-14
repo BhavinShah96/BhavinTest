@@ -1,0 +1,28 @@
+<html>
+    <script>
+    console.log(this == window)
+    console.log(typeof window)
+
+    let foo = 23;
+    console.log(foo);
+document.writeln(foo);
+
+foo = 'abc'
+console.log(foo);
+document.writeln(typeof(foo));
+
+foo = []
+console.log(typeof(foo));
+
+foo = {}
+console.log(typeof(foo));
+
+foo = function(){   }
+console.log(typeof(foo));
+
+console.log(document == window.document);
+console.log(location == window.location);
+console.log(console == window.console);
+
+    </script>
+</html>

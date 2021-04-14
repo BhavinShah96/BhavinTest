@@ -1,0 +1,7 @@
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\bin\Debug\LinqWithList.exe.config
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\bin\Debug\LinqWithList.exe
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\bin\Debug\LinqWithList.pdb
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\obj\Debug\LinqWithList.csprojAssemblyReference.cache
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\obj\Debug\LinqWithList.csproj.CoreCompileInputs.cache
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\obj\Debug\LinqWithList.exe
+C:\swabhav\DotNet\HomeWork\LinqWithList\LinqWithList\obj\Debug\LinqWithList.pdb

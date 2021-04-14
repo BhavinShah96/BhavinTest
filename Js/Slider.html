@@ -1,0 +1,21 @@
+<html>
+<p id="para"></p>
+<input id="slider" type="range" min="1" max="100">
+<output id="sliderVal"></output>
+<script>
+    var SliderElement = document.getElementById("slider");
+        var ParaElement = document.getElementById("para");
+        SliderElement.addEventListener("input",slider);
+    function slider(val) {
+        ParaElement.innerHTML = SliderElement.innerHTML;
+        for(var i = 1; i < SliderElement.value; i++)
+        {
+        // document.getElementById("sliderVal").value = val;
+        var btn = document.createElement("BUTTON");
+        btn.innerHTML = i;
+        ParaElement.appendChild(btn);
+        }
+    }
+</script>
+
+</html>

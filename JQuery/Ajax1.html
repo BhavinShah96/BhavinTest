@@ -1,0 +1,36 @@
+<html>
+
+<head>
+    <title></title>
+    <script src="..\JQuery\jquery-3.4.1.js"></script>
+</head>
+
+<body>
+    <input type="number" id="number">
+    <button id="submit">Facts</button>
+    <p id="facts"></p>
+    <script>
+        (function(){
+            $(document).ready(function(){
+                $("#submit").on('click',getFacts);
+            });
+
+            function getFacts(){
+                var numbers = $("#number").val();
+
+                $.ajax({
+                    type:"Get",
+                    url:"http://numbersapi.com/" +numbers,
+                    success: function(data){
+                        $("#facts").html(data)
+                    }
+                })
+
+            }
+            
+        })();
+
+    </script>
+</body>
+
+</html>

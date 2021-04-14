@@ -1,0 +1,21 @@
+<html>
+    <head><title>Syncronous Program</title></head>
+    <body>
+        <button id="hello" onclick="func()">Hello World</button>
+        <button id="print" onclick="sync()">PrintData</button>
+        <p id="para"></p>
+        <script>
+        function func(){
+            var print = document.getElementById("para");
+            print.innerHTML = "Hello World.."
+        }
+        function sync(){
+            var print = document.getElementById("para");
+            for(var i = 0 ; ;i++){
+                print.innerHTML = i;
+            }
+            
+        }
+        </script>
+    </body>
+</html>

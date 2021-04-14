@@ -1,0 +1,21 @@
+<html>
+    <head></head>
+    <body>
+        <button id="count">Count</button>
+        <p id="paragraph"></p>
+        <script>
+        var count = 0;
+        var countButton = document.getElementById("count");
+        var displayCount = document.getElementById("paragraph");
+        if(sessionStorage.getItem('count')!= null)
+        {
+            count = sessionStorage.getItem('count');
+        }
+        countButton.onclick = function(){
+            count++;
+            sessionStorage.setItem('count',count);
+            displayCount.innerHTML = count + ' - times';
+        }
+        </script>
+    </body>
+</html>
