@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "DemoPageCreation",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

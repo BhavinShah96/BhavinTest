@@ -1,0 +1,7 @@
+{
+  "name": "DemoPageCreation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
